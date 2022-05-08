@@ -1,0 +1,13 @@
+/home/tomek/Pobrane/bakeryShop/src/main/java/com/slodkacysia/bakeryshop/controllers/RegisterUser.java
+/home/tomek/Pobrane/bakeryShop/src/main/java/com/slodkacysia/bakeryshop/repository/UserRepository.java
+/home/tomek/Pobrane/bakeryShop/src/main/java/com/slodkacysia/bakeryshop/entity/Category.java
+/home/tomek/Pobrane/bakeryShop/src/main/java/com/slodkacysia/bakeryshop/entity/ShippingMethod.java
+/home/tomek/Pobrane/bakeryShop/src/main/java/com/slodkacysia/bakeryshop/entity/Purchase.java
+/home/tomek/Pobrane/bakeryShop/src/main/java/com/slodkacysia/bakeryshop/BakeryShopApplication.java
+/home/tomek/Pobrane/bakeryShop/src/main/java/com/slodkacysia/bakeryshop/entity/CartItem.java
+/home/tomek/Pobrane/bakeryShop/src/main/java/com/slodkacysia/bakeryshop/entity/User.java
+/home/tomek/Pobrane/bakeryShop/src/main/java/com/slodkacysia/bakeryshop/configuration/SecurityConfig.java
+/home/tomek/Pobrane/bakeryShop/src/main/java/com/slodkacysia/bakeryshop/entity/Cart.java
+/home/tomek/Pobrane/bakeryShop/src/main/java/com/slodkacysia/bakeryshop/entity/PaymentMethod.java
+/home/tomek/Pobrane/bakeryShop/src/main/java/com/slodkacysia/bakeryshop/entity/Product.java
+/home/tomek/Pobrane/bakeryShop/src/main/java/com/slodkacysia/bakeryshop/controllers/Health.java

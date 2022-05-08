@@ -1,0 +1,13 @@
+com/slodkacysia/bakeryshop/entity/Category.class
+com/slodkacysia/bakeryshop/entity/Purchase.class
+com/slodkacysia/bakeryshop/BakeryShopApplication.class
+com/slodkacysia/bakeryshop/controllers/RegisterUser.class
+com/slodkacysia/bakeryshop/entity/ShippingMethod.class
+com/slodkacysia/bakeryshop/entity/User.class
+com/slodkacysia/bakeryshop/controllers/Health.class
+com/slodkacysia/bakeryshop/entity/Cart.class
+com/slodkacysia/bakeryshop/entity/CartItem.class
+com/slodkacysia/bakeryshop/repository/UserRepository.class
+com/slodkacysia/bakeryshop/entity/Product.class
+com/slodkacysia/bakeryshop/entity/PaymentMethod.class
+com/slodkacysia/bakeryshop/configuration/SecurityConfig.class
